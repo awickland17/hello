@@ -1,8 +1,8 @@
 /**
  * Author: Aaron Wickland
- * Date: 2022/23/08
+ * Date: 2022/25/08
  *
- * A simple hello world program in C
+ * Introducing myself and my major through C
  *
  */
 #include <stdlib.h>
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Hello World, my name is Aaron Wickland!!\n");
+  printf("My major is Computer Engineering\n");
 
   return 0;
 }
